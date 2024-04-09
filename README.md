@@ -11,7 +11,7 @@ I have been annoyed trying to keep track of what challenges I have approved/requ
 
 
 
-The code is located at [my github repo here](https://github.com/tlaceby/cosc-3020).
+The code is located at [my github repo here](https://github.com/tlaceby/cosc-3020). I also have pasted the main.ts file which is probably out of date unless you check the GitHub repo above. 
 
 The output of the code produces a markdown file which looks like this:
 
